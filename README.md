@@ -44,6 +44,9 @@ i used
 
 <b>1.Home Page : </b>
 <ul>
+<li>
+ when there is no image for product i add a demo image from dummy site : https://dummyimage.com/600x600/D3D3D3/D3D3D3
+  </li>
   <li>
   for the filter i have used Debounce Time and Filtering according to name or category
   </li>
