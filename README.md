@@ -29,6 +29,12 @@ i used
   <li>
  <b>lodash.debounce library to make site more preformance when user start to get filter </b>
 </li>
+  <li>
+ <b>env-cmd to make base Url public for all project </b>
+</li>
+ <li>
+ <b>scss , css and CssTailWind </b>
+</li>
 </ul>
 
 <b>1.Home Page : </b>
