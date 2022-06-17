@@ -26,9 +26,12 @@ i used
 <li>
  <b>IconMoon To convert Image into fonts </b>
 </li>
+  <li>
+ <b>lodash.debounce library to make site more preformance when user start to get filter </b>
+</li>
 </ul>
 
-1.Home Page : 
+<b>1.Home Page : </b>
 <ul>
   <li>
   for the filter i have used Debounce Time and Filtering according to name or category
@@ -38,13 +41,13 @@ i used
 </li>
   <li>when you click to any card you will navigate to detais page to display the product's details</li>
 </ul>
-2.Details Page:
+<b>2.Details Page:</b>
 <ul>
   <li>
 it is just a text page and i used css tailwind to make it responsive. 
   </li>
   </ul>
-  3.Create Page:
+  <b>3.Create Page:</b>
 <ul>
   <li>
 i used React Hook Form library to get things more simple
