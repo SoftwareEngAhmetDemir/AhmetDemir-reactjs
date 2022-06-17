@@ -60,6 +60,12 @@ it is just a text page and i used css tailwind to make it responsive.
   <li>
 i used React Hook Form library to get things more simple
      </li>
+<li>
+All Form Fields Are Required(mandetory)
+     </li>
+<li>
+price Field's values is greater than or equal to 1 . (values>=1) 
+     </li>
   </ul>
 
 At The End For Run This Project After You will Clone İt please write : " npm i " command in the terminal .
