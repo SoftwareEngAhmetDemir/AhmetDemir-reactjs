@@ -59,3 +59,5 @@ it is just a text page and i used css tailwind to make it responsive.
 i used React Hook Form library to get things more simple
      </li>
   </ul>
+
+At The End For Run This Project After You will Clone İt please write : npm i command in the terminal .
