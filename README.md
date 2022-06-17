@@ -2,6 +2,8 @@
 
 
 In This Project I will explain <br/>what i used : 
+<br/>
+<b>note : (This Site İs Responsive Using CssTailWind)</b>
 At First :
 i used 
 <ul>
