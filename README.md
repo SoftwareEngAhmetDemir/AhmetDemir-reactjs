@@ -26,6 +26,12 @@ i used
  <b>to get notify React Toastify Library </b>
 </li>
 <li>
+<<<<<<< HEAD
+=======
+ <b>to navigate between Pages i used React Router v.6 </b>
+</li>
+<li>
+>>>>>>> 51d026777b8102123df3b586d1de07c68a32bdbb
  <b>IconMoon To convert Image into fonts </b>
 </li>
   <li>
@@ -41,6 +47,12 @@ i used
 
 <b>1.Home Page : </b>
 <ul>
+<<<<<<< HEAD
+=======
+<li>
+ when there is no image for product i add a demo image from dummy site : https://dummyimage.com/600x600/D3D3D3/D3D3D3
+  </li>
+>>>>>>> 51d026777b8102123df3b586d1de07c68a32bdbb
   <li>
   for the filter i have used Debounce Time and Filtering according to name or category
   </li>
@@ -60,6 +72,15 @@ it is just a text page and i used css tailwind to make it responsive.
   <li>
 i used React Hook Form library to get things more simple
      </li>
+<<<<<<< HEAD
+=======
+<li>
+All Form Fields Are Required(mandetory)
+     </li>
+<li>
+price Field's values is greater than or equal to 1 . (values>=1) 
+     </li>
+>>>>>>> 51d026777b8102123df3b586d1de07c68a32bdbb
   </ul>
 
 At The End For Run This Project After You will Clone İt please write : " npm i " command in the terminal .
