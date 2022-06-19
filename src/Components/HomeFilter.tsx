@@ -23,9 +23,9 @@ function HomeFilter() {
 
     const updateProducts = (words: string) => {
         let word = words.toLowerCase().trim();
-    
-        setProducts(fullData);
-        if (word.length > 0) {
+    if (word.length > 0) {
+           products = [...fullData];
+            console.log('called');
             let productst = products.filter(product => {
                 return product?.name?.toString().toLowerCase().trim().includes(word)
             })
